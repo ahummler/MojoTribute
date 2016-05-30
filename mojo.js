@@ -9,10 +9,15 @@
 //     alert("jQuery library is not found!");
 
 // }
-
-$(document).ready(function () {
-    $('div').fadeIn(10000).removeClass('mojo');
+$(window).load(function() {
+   $('div').each(function(i) {
+      $(this).delay((i + 1) * 1250).fadeIn(12000);
+   });
 });
+
+// $(document).ready(function () {
+//     $('div').fadeIn(10000).removeClass('mojo');
+// });
 
 
 // $(document).ready(function() {
