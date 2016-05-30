@@ -1,7 +1,8 @@
 div.mojo {display :none;}
-
+h1 {color: white;}
 body {
-    background-image: url("images/jmBackground.jpeg");
+    background-image: url("images/jmBackground2.jpg");
+    /*background-image: url("images/jmBackground.jpeg");*/
     background-size: 100%;
      background-repeat: no-repeat;
 }
