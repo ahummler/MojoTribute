@@ -1,1 +1,7 @@
 div.mojo {display :none;}
+
+body {
+    background-image: url("images/jmBackground.jpeg");
+    background-size: 100%;
+     background-repeat: no-repeat;
+}
