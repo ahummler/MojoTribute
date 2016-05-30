@@ -1,5 +1,6 @@
 div.mojo {display :none;}
-h1 {color: white;}
+h1 {color: white;
+font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;}
 body {
     background-image: url("images/jmBackground2.jpg");
     /*background-image: url("images/jmBackground.jpeg");*/

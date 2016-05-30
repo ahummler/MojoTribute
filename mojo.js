@@ -11,7 +11,7 @@
 // }
 $(window).load(function() {
    $('div').each(function(i) {
-      $(this).delay((i + 1) * 1250).fadeIn(12000);
+      $(this).delay((i + 1) * 1250).fadeIn(5000,function() { $('span').fadeOut(35000); });
    });
 });
 
