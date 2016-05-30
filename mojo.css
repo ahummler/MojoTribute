@@ -2,7 +2,8 @@ div.mojo {display: none;}
 nav#nav {display:none;
 		 font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
-nav { font-size: 50px; color: white; text-align: center;  }
+nav { font-size: 50px; color: white; text-align: center;  
+ font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;}
 /*div#nav {margin: 0 auto;}*/
 h1 {color: white;
  
