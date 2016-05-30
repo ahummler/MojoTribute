@@ -1,0 +1,15 @@
+div.mojo {display: none;}
+nav#nav {display:none;
+		 font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+nav { font-size: 50px; color: white; text-align: center;  }
+/*div#nav {margin: 0 auto;}*/
+h1 {color: white;
+ 
+font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;}
+body {
+    background-image: url("images/jmBackground2.jpg");
+    /*background-image: url("images/jmBackground.jpeg");*/
+    background-size: 100%;
+     background-repeat: no-repeat;
+}
