@@ -1,7 +1,17 @@
 // window.alert("sometext");
 
+// if (typeof jQuery != 'undefined') {
+
+//     alert("jQuery library is loaded!");
+
+// }else{
+
+//     alert("jQuery library is not found!");
+
+// }
+
 $(document).ready(function () {
-    $('.div').fadeIn(1000).removeClass('mojo');
+    $('div').fadeIn(10000).removeClass('mojo');
 });
 
 
